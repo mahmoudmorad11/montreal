@@ -722,4 +722,8 @@ footer div.icons i {
     padding: 15px;
     font-size: 1.4em;
 }
+.credit {
+    font-size: 1.5em;
+    margin-top: 10px;
+}
 /* end footer */
